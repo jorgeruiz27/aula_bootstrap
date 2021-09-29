@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #C8FE2E;
+}
+
+.quem-somos{
+    background-color: #A9A9F5;
+    color: white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.par-ceiros{
+    background-color: #00FF80;
+    color: white;
+}
+
+.ser-vicos{
+    background-color: #FACC2E;
+    color: white;
+}
+
+.descr{
+    margin-top: 10px;
+}
+
+.br-footer{
+    background-color: black;
+    color: white;
+}
